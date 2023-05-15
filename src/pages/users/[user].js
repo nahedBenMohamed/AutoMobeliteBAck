@@ -7,3 +7,6 @@ export default function user() {
         <h1>user {router.query.user}</h1>
     )
 }
+export async function getUserDetails() {
+
+}
